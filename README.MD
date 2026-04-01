@@ -22,7 +22,8 @@ Text_to_speech/
     ├── __init__.py     # Makes 'src' a Python package
     ├── engine.py       # Speech processing & Audio saving logic
     └── interface.py    # Tkinter Graphical User Interface (GUI) code
- #🛠️ Technical Stack
+ 
+🛠️ Technical Stack
 Language: Python 3.10+
 
 GUI Library: Tkinter (Standard Library)
@@ -31,7 +32,7 @@ Speech Engines: pyttsx3 (Offline) & gTTS (Online)
 
 Audio Playback: pygame (Mixer module)
 
-#⚙️ Installation & Setup
+⚙️ Installation & Setup
 Clone or Download the Project
 Ensure all files are placed in a folder named Text_to_speech.
 
@@ -45,8 +46,7 @@ Always run the project from the main directory using:
 
 PowerShell
 python main.py
-
-# 📖 How to Use
+📖 How to Use
 Enter Text: Type your desired message into the text area.
 
 Listen Live (Green Button): Hear the text immediately through your speakers.
