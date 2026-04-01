@@ -39,8 +39,10 @@ git clone https://github.com/Keerthi778/text-_to-_speech-.git
 
 cd text-_to-_speech-
 
- #Install dependencies:
+ # Install dependencies:
+
 pip install -r requirements.txt
+
 ▶️ Usage
 
 Run the main script:
