@@ -1,4 +1,4 @@
-** 🎙️ Text-to-Speech (TTS) Project
+#🎙️ Text-to-Speech (TTS) Project
 📌 Overview
 
 This project is a Text-to-Speech (TTS) application that converts written text into natural-sounding speech using Python. It is designed to be simple, efficient, and easy to integrate into other applications.
@@ -80,7 +80,7 @@ pyttsx3
 gtts
 playsound
 
- #🤝 Contributing
+ # 🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,6 +89,6 @@ Create a new branch
 Make your changes
 Submit a pull request
 
- #📜 License
+ # 📜 License
 
 This project is open-source and available under the MIT License.
