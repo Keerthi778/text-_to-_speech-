@@ -1,4 +1,5 @@
-#🎙️ Text-to-Speech (TTS) Project
+# 🎙️ Text-to-Speech (TTS) Project
+
 📌 Overview
 
 This project is a Text-to-Speech (TTS) application that converts written text into natural-sounding speech using Python. It is designed to be simple, efficient, and easy to integrate into other applications.
